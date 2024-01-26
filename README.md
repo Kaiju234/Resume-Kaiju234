@@ -1,4 +1,5 @@
-# Resume-Kaiju234
+Raj's Resume
+ 
 Hello u Awesome Champions!! im Raj Shah im a Student of Gulf Coast State College and im also 
 a Programmer 
 
