@@ -24,7 +24,7 @@ Links For the Software i use
 Vscode: https://code.visualstudio.com/
 Visual Studio 2022: https://visualstudio.microsoft.com/
 Neovim: https://neovim.io/ 
-Jetbrains Intelijidea: https://www.jetbrains.com/idea/
+Intelijidea: https://www.jetbrains.com/idea/
 
 
 My Dream is to Become the world best video games Designer
