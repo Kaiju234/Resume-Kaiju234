@@ -15,7 +15,7 @@ Youtube: The Gundam
 wanna send ideas contact me on gmail: rajashah0303@gmail.com
 
 Software i use 
-[![Software](https://skillicons.dev/icons?i=vscode,visualstudio,neovim,#&perline=3)](https://skillicons.dev)
+[![Software](https://skillicons.dev/icons?i=vscode,visualstudio,neovim,idea#&perline=3)](https://skillicons.dev)
 
 
 
