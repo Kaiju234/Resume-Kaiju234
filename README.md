@@ -4,7 +4,7 @@ Hello u Awesome Champions!! im Raj Shah im a Student of Gulf Coast State College
 a Programmer 
 
 What im Learning is 
-[![What im Learning](https://skillicons.dev/icons?i=python,java,cpp,bash,cs,rustc#&perline=3)](https://skillicons.dev)
+[![What im Learning](https://skillicons.dev/icons?i=python,java,cpp,bash,cs,rust,c#&perline=3)](https://skillicons.dev)
 
 My Plans in the Future
 [![What im Learning in the Future](https://skillicons.dev/icons?i=html,css,js,react,#&perline=3)](https://skillicons.dev)
