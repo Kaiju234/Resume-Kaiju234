@@ -19,13 +19,14 @@ Youtube: The Gundam ▶️
 Gmail:rajashah0303@gmail.com 📧
 
 Software i Use 
-[![Software](https://skillicons.dev/icons?i=vscode,visualstudio,neovim,idea#&perline=3)](https://skillicons.dev)
+[![Software](https://skillicons.dev/icons?i=vscode,visualstudio,neovim,idea,godot,unity#&perline=3)](https://skillicons.dev)
 
 Links For the Software i use
 Vscode: https://code.visualstudio.com/
 Visual Studio 2022: https://visualstudio.microsoft.com/
 Neovim: https://neovim.io/ 
 Intelijidea: https://www.jetbrains.com/idea/
-
+Godot: https://godotengine.org
+Unity: https://unity.com
 
 My Dream is to Become the world best video games Designer
