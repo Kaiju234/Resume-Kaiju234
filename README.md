@@ -13,9 +13,9 @@ You Can Follow Me on my Social Media Accounts if im not busy feel free to
 Contact Me For Ideas
 [![My Skills](https://skillicons.dev/icons?i=discord,instagram,gmail)](https://skillicons.dev)
 
-Discord: chaoszilla678 🎮
+Discord: ShinGodzilla 🎮
 Instagram: godzilla_king_576 📷
-Youtube: The Gundam ▶️
+Youtube: @Shinzilla86 ▶️
 Gmail:rajashah0303@gmail.com 📧
 
 Software i Use 
